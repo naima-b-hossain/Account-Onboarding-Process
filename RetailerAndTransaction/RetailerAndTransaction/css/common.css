@@ -1,0 +1,9 @@
+﻿.center_content{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
